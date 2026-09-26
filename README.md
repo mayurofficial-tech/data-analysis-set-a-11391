@@ -60,7 +60,7 @@ pip install -r requirements.txt
 Run the Python analysis:
 
 ```bash
-python python/analysis.py
+python python/analysis.ipynb
 ```
 
 Run the SQL files in the following order:
