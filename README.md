@@ -3,6 +3,8 @@
 **Student:** Mayur Makwana
 **Student ID:** 11391
 
+![Power BI Dashboard](output/powerbi_dashboard.png)
+
 **Video Link (Google Drive):**
 [https://drive.google.com/file/d/1WTzt21a59AQPrQ0SNECbcdCrHaXNvWvP/view?usp=drive_link](https://drive.google.com/file/d/1xDb0zLuaU8ev9-WsMJdbJ4r8ZISj3skB/view?usp=drive_link)
 
