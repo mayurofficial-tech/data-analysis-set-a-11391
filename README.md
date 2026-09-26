@@ -4,7 +4,7 @@
 **Student ID:** 11391
 
 **Video Link (Google Drive):**
-https://drive.google.com/file/d/1WTzt21a59AQPrQ0SNECbcdCrHaXNvWvP/view?usp=drive_link
+[https://drive.google.com/file/d/1WTzt21a59AQPrQ0SNECbcdCrHaXNvWvP/view?usp=drive_link](https://drive.google.com/file/d/1xDb0zLuaU8ev9-WsMJdbJ4r8ZISj3skB/view?usp=drive_link)
 
 **Duration:** 8–9 minutes
 
@@ -76,7 +76,7 @@ Run the SQL files in the following order:
 ## Video
 
 **Google Drive:**
-https://drive.google.com/file/d/1WTzt21a59AQPrQ0SNECbcdCrHaXNvWvP/view?usp=drive_link
+[https://drive.google.com/file/d/1WTzt21a59AQPrQ0SNECbcdCrHaXNvWvP/view?usp=drive_link](https://drive.google.com/file/d/1xDb0zLuaU8ev9-WsMJdbJ4r8ZISj3skB/view?usp=drive_link)
 
 **Access:** Anyone with the link can view.
 
